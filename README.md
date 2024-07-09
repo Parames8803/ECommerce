@@ -13,31 +13,31 @@
 ![Screenshot 2024-04-11 002113](https://github.com/Parames8803/sns_squares/assets/94157100/019fc22d-2899-4fa6-8bb4-91949a1b7297)
 
 
-Intial Steps to Get Started...
+# Intial Steps to Get Started...
 
 Install Node.js ( ignore already installed )
 https://nodejs.org/en/download/
 
 create .env file in root of server directory...
 
-MONGO_DB_URL = "mongodb://localhost:27017/sns_squares"
+MONGO_DB_URL = YOUR_MONGO_DB_URI
 PORT = 3001
 
-Install mongoDB compass...
+# Install mongoDB compass...
 
 https://downloads.mongodb.com/compass/mongodb-compass-1.42.5-win32-x64.exe
 
-In Command Prompt ( inside root directory )
+# In Command Prompt ( inside root directory )
 1. cd client
 2. npm install
 3. npm start
 
-new Terminal
+# new Terminal
 1. cd server
 2. npm install
 3. npm start
 
-Functionalities
+# Functionalities
 1. User Authentication
 2. Add to Cart features
 3. Search products Features
